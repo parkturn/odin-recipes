@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: forestgreen;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    color: firebrick;
+    font-size: 20px;
+    font-weight: bold;
+}
